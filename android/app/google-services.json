@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255293893680",
+    "firebase_url": "https://akproduction-clinet-details.firebaseio.com",
+    "project_id": "akproduction-clinet-details",
+    "storage_bucket": "akproduction-clinet-details.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255293893680:android:101892f628203cdb",
+        "android_client_info": {
+          "package_name": "com.example.akproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255293893680-gq7q82iidbar73cd378qi80tab80lffe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHjFzKTDQyCemC4HwdcehTMENm8I20Qo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255293893680-gq7q82iidbar73cd378qi80tab80lffe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
